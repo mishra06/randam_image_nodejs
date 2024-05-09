@@ -1,0 +1,11 @@
+{
+  "name": "randamimage",
+  "version": "1.0.0",
+  "description": "each click randam image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vibhakar mishra",
+  "license": "ISC"
+}
